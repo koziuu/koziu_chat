@@ -1,0 +1,1 @@
+console.log('to będzie fajny chat')
